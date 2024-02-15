@@ -1,0 +1,67 @@
+.head {
+ background-color: rgb(5, 5, 138);
+ padding: 40px;
+ font-size: 50px;
+}
+
+.white {
+    color: white;
+}
+.red {
+    color: red;
+}
+.ant {
+    text-align: right;
+    color: rgb(253, 8, 8);
+}
+.but {
+    color: white;
+    background-color: red; 
+    text-align: right;  
+    padding: 10px;
+    border-radius: 15px;
+}
+.butt {
+    background-color: red;
+    color: white;
+    padding: 15px;
+    border-radius: 15px;
+}
+.butt:hover {
+    background-color: white;
+    color: black;
+}
+.two {
+    background-color: rgb(17, 17, 36);
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+.three {
+    background-color: white;
+    text-align: center;
+}
+.four {
+    background-color: coral;
+    text-align: center;
+    padding-top: 10px;
+    color: white;
+}
+.five {
+    background-color:rgb(17, 17, 36) ;
+    text-align: center;
+    color: white;
+    padding-top: 10px;
+}
+.six {
+    background-color: white;
+    text-align: center;
+    padding: 15px;
+}
+.foot {
+    background-color: rgb(4, 4, 36);
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 8px;
+}
